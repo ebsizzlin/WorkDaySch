@@ -80,10 +80,19 @@ This homework is graded based on the following criteria:
 
 ## Description
 
+A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
+
 ## Completed
+
+- html / css design
+- moment.js
 
 ## Unfinished
 
 ## Screenshots
 
+<img width="1157" alt="Screen Shot 2020-10-06 at 10 04 28 PM" src="https://user-images.githubusercontent.com/70185995/95279143-edb4f580-081f-11eb-8dd7-3e9071619859.png">
+
 ## Link
+
+https://ebsizzlin.github.io/WorkDaySch/
