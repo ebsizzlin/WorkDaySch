@@ -46,7 +46,7 @@ THEN the saved events persist
 
 ## Unfinished
 
-- moment.js date / time (error for dateNow)
+- moment.js date / time (error for dateNow) (immediate error rip)
 
 ## Screenshots
 

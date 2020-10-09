@@ -1,6 +1,6 @@
 //moment.js
 var timeNow = moment().format("H"); //24h clock
-var dateNow = moment().format("MMMM Do YYYY, h:mm:ss"); //rn says 'moment' is undefined
+var dateNow = moment().format("MMMM Do YYYY, h:mm:ss"); //rn says 'moment' is undefined so i can't see if anything else works
 console.log("timeNow:", timeNow);
 
 //display dateNow
@@ -21,41 +21,42 @@ var allTimes = {
 
 //onclick to local storage functions - will stay displayed ?
 //way to make less repetative ?
+// localstorage.getItem ? // $().text() ? // JSON.stringify ? // JSON.parse(local...) ?
 $(".b9").on("click", function () {
-  var entertext = $(".e9").val();
-  localStorage.setItem("9h00", entertext);
+  var entertext9 = $(".e9").val();
+  localStorage.setItem("9h00", entertext9);
 });
 $(".b10").on("click", function () {
-  var entertext = $(".e19").val();
-  localStorage.setItem("10h00", entertext);
+  var entertext10 = $(".e19").val();
+  localStorage.setItem("10h00", entertext10);
 });
 $(".b11").on("click", function () {
-  var entertext = $(".e11").val();
-  localStorage.setItem("11h00", entertext);
+  var entertext11 = $(".e11").val();
+  localStorage.setItem("11h00", entertext11);
 });
 $(".b12").on("click", function () {
-  var entertext = $(".e12").val();
-  localStorage.setItem("12h00", entertext);
+  var entertext12 = $(".e12").val();
+  localStorage.setItem("12h00", entertext12);
 });
 $(".b13").on("click", function () {
-  var entertext = $(".e13").val();
-  localStorage.setItem("13h00", entertext);
+  var entertext13 = $(".e13").val();
+  localStorage.setItem("13h00", entertext13);
 });
 $(".b14").on("click", function () {
-  var entertext = $(".e14").val();
-  localStorage.setItem("14h00", entertext);
+  var entertext14 = $(".e14").val();
+  localStorage.setItem("14h00", entertext14);
 });
 $(".b15").on("click", function () {
-  var entertext = $(".e15").val();
-  localStorage.setItem("15h00", entertext);
+  var entertext15 = $(".e15").val();
+  localStorage.setItem("15h00", entertext15);
 });
 $(".b16").on("click", function () {
-  var entertext = $(".e16").val();
-  localStorage.setItem("16h00", entertext);
+  var entertext16 = $(".e16").val();
+  localStorage.setItem("16h00", entertext16);
 });
 $(".b17").on("click", function () {
-  var entertext = $(".e17").val();
-  localStorage.setItem("17h00", entertext);
+  var entertext17 = $(".e17").val();
+  localStorage.setItem("17h00", entertext17);
 });
 
 //function to change color of section based on time
