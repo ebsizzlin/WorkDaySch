@@ -6,12 +6,15 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## User Story
 
+```
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
+```
 
 ## Acceptance Criteria
 
+```
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -25,6 +28,7 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+```
 
 ## Grading
 
@@ -51,6 +55,7 @@ THEN the saved events persist
 ## Screenshots
 
 <img width="1157" alt="Screen Shot 2020-10-06 at 10 04 28 PM" src="https://user-images.githubusercontent.com/70185995/95279143-edb4f580-081f-11eb-8dd7-3e9071619859.png">
+<img width="1300" alt="Screen Shot 2020-10-09 at 1 05 42 AM" src="https://user-images.githubusercontent.com/70185995/95545322-93589800-09cb-11eb-8d06-055817d9d715.png">
 
 ## Link
 
