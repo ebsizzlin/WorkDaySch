@@ -47,15 +47,16 @@ THEN the saved events persist
 - live url
 - local storage function
 - color change function past / present / future
+- moment.js
 
-## Unfinished
+## To Add
 
-- moment.js date / time (error for dateNow) (immediate error rip)
+- get seconds to actively change on scren
 
 ## Screenshots
 
-<img width="1157" alt="Screen Shot 2020-10-06 at 10 04 28 PM" src="https://user-images.githubusercontent.com/70185995/95279143-edb4f580-081f-11eb-8dd7-3e9071619859.png">
-<img width="1300" alt="Screen Shot 2020-10-09 at 1 05 42 AM" src="https://user-images.githubusercontent.com/70185995/95545322-93589800-09cb-11eb-8d06-055817d9d715.png">
+<img width="1568" alt="Screen Shot 2020-10-19 at 9 31 16 AM" src="https://user-images.githubusercontent.com/70185995/96462576-b5d08980-11f3-11eb-9739-d892d515946c.png">
+<img width="1565" alt="Screen Shot 2020-10-19 at 10 13 09 AM" src="https://user-images.githubusercontent.com/70185995/96462583-b79a4d00-11f3-11eb-946c-b2abcd91b33e.png">
 
 ## Link
 
