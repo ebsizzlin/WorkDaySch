@@ -1,4 +1,4 @@
-# WorkDaySch - 5
+# Work Day Scheduler
 
 ## Description
 
