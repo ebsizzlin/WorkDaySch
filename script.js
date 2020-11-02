@@ -82,6 +82,19 @@ changeColor();
 //   setInterval(check,60000)//runs interval every 10
 // }
 
+//setTimeout(function)()  {
+//   console.log(this.name + '!');
+// }, 100);
+
+// var person = {
+//   name: 'hodor',
+//   saySomething: function()  {
+//     console.log(this.name + ' is thinking...');
+//     setTimeout(() => console.log(this.name + '!'), 100);
+//   }
+// }
+
+
 //interval function too much, pg wouldn't load, it already changes at the hour anyway
 
 $('.e9').val(localStorage.getItem('9h00'));
